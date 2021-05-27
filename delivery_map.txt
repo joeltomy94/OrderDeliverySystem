@@ -1,0 +1,8 @@
+Nople Normal Altar1-truck-Altar2,Altar2-train-Cansomme,Cansomme-flight-Karoh,Karoh-truck-Nople
+Dria Normal Altar1-truck-Altar2,Altar2-train-Mala1,Mala1-truck-Mala2,Mala2-flight-Dria
+Nople Premium Altar1-truck-Altar2,Altar2-flight-Karoh,Karoh-truck-Nople
+Dria Premium Altar1-truck-Altar2,Altar2-flight-Dria
+Tiliana Normal Altar1-truck-Altar2,Altar2-ship-Karfar,Karfar-boat-Tiliana
+Marbut Normal Altar1-truck-Altar2,Altar2-ship-Karfar,Karfar-boat-Tiliana,Tiliana-boat-Marbut
+Tiliana Premium Altar1-truck-Altar2,Altar2-flight-Tiliana
+Marbut Premium Altar1-truck-Altar2,Altar2-flight-Tiliana,Tiliana-boat-Marbut

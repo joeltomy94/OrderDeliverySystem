@@ -1,0 +1,8 @@
+1001-Mouse-Ramses-21:12:2020:06:30:45-Dria-24:12:2020-Normal
+1002-NailPolish-Patra-21:12:2020:08:12:36-Nople-25:12:2020-Premium
+1003-Mouthwash-Sina-21:12:2020:08:23:46-Nople-22:12:2020-Normal
+1004-Pen-Thenes-21:12:2020:08:26:39-Dria-23:12:2020-Premium
+1005-Cinnamon-Aria-21:12:2020:09:01:02-Nople-23:12:2020-Normal
+1006-Mouthwash-Remar-21:12:2020:19:03:02-Tiliana-23:12:2020-Normal
+1007-Salt-Kaya-21:12:2020:20:01:02-Marbut-22:12:2020-Premium
+1008-Coffee-Menasa-24:12:2020:09:35:03-Marbut-27:12:2020-Normal
